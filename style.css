@@ -1,0 +1,25 @@
+body {
+    font-family: 'Coiny', cursive;
+    background-color: aliceblue
+}
+
+h1 {
+    color: red
+}
+
+p {
+    text-align: center;
+    width: 500px;
+}
+
+table,
+th,
+td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+tr:hover {
+    background: #ff0000;
+    color: #fff;
+}
